@@ -27,6 +27,7 @@ html{
     top: 0px;
     justify-content: space-between;
     transition: top 0.3s;
+    z-index: 99;
 }
 
 #navbar::before{
@@ -750,10 +751,10 @@ footer{
     }
 }
 @media (max-width: 947px){
-    .menu-btn{
+    /* .menu-btn{
         display: block;
         z-index: 999;
-    }
+    } */
     .max-width{
         max-width: 930px;
     }
