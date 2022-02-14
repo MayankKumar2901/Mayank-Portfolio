@@ -4,8 +4,8 @@
 }
 
 #navbar ul li a{
-    margin-top: 8px;
-    margin-bottom: 8px;
+    /* margin-top: 8px; */
+    margin-bottom: 10px;
     font-size: 1rem;
     padding: 0px 7px;
 }
