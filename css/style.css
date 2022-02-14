@@ -595,7 +595,7 @@ ol, ul {
 /* footer section */
 
 footer{
-    height: 9vh;
+    /* height: 9vh; */
     font-family: 'Poppins', sans-serif;
     background: #bfa1e9;
     padding: 15px 23px;
